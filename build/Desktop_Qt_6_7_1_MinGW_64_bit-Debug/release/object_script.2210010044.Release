@@ -1,0 +1,12 @@
+release/fios_jadwal.o
+release/fios_pria.o
+release/fios_wanita.o
+release/formjadwal.o
+release/formpria.o
+release/formwanita.o
+release/main.o
+release/formutama.o
+release/moc_formjadwal.o
+release/moc_formpria.o
+release/moc_formutama.o
+release/moc_formwanita.o

@@ -1,0 +1,12 @@
+debug/fios_jadwal.o
+debug/fios_pria.o
+debug/fios_wanita.o
+debug/formjadwal.o
+debug/formpria.o
+debug/formwanita.o
+debug/main.o
+debug/formutama.o
+debug/moc_formjadwal.o
+debug/moc_formpria.o
+debug/moc_formutama.o
+debug/moc_formwanita.o
